@@ -13,3 +13,5 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL', 'Bootstrap', 'Material Design'];
   wantToLearn = ['Python', 'PHP', 'Swift' ]
 }
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Q-Redding&show_icons=true)
