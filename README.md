@@ -1,13 +1,13 @@
 import DataEngineer from 'quentonredding';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends DataEngineer {
   name     = 'Quenton Redding';
   title    = 'Data Engineer';
   company  = 'Tesla';
   location = 'Austin, TX';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends DataEngineer {
   languages  = ['JavaScript', 'CSS','SQL','Python'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['React', 'React Native', 'Angular', 'GraphQL', 'Bootstrap', 'Material Design'];
